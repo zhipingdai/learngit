@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 creating a new branch & simple
+=======
+creating a new branch & simple
+>>>>>>> feature1
