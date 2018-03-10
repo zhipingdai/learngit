@@ -3,3 +3,4 @@ creating a new branch & simple
 =======
 creating a new branch & simple
 >>>>>>> feature1
+this is the first test
